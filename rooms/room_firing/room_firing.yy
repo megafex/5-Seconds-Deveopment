@@ -1,6 +1,6 @@
 
 {
-    "name": "room_",
+    "name": "room_firing",
     "id": "fc3a0c81-96bc-41d2-aa63-638e53288423",
     "creationCodeFile": "",
     "inheritCode": false,
@@ -87,12 +87,12 @@
     },
     "roomSettings":     {
         "id": "f757cb0b-fc43-4dd4-b9ab-e6649dedf4da",
-        "Height": 768,
+        "Height": 1080,
         "inheritRoomSettings": false,
         "modelName": "GMRoomSettings",
         "persistent": false,
         "mvc": "1.0",
-        "Width": 1024
+        "Width": 1920
     },
     "mvc": "1.0",
     "views": [
