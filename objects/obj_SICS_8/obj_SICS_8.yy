@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "obj_SICS_8",
     "eventList": [
-        
+        {
+            "id": "df90d23d-fe03-4b47-a0cb-f5994cb4cffc",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "4872131c-bd95-49e0-b594-a21700135fae"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

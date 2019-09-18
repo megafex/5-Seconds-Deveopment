@@ -1,19 +1,10 @@
 {
-    "id": "af24bea3-af5a-4953-baa1-10e331359672",
+    "id": "b2a4faa9-eaba-4b5c-b1c8-051668a510de",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_SICS_6",
+    "name": "obj_SICS_competition",
     "eventList": [
-        {
-            "id": "81e8c905-e887-47f7-a751-2e20ec5ff3bb",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "af24bea3-af5a-4953-baa1-10e331359672"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
@@ -33,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "e395b591-6cc5-43c8-b81c-abbe621ff008",
+    "spriteId": "7400d834-791d-409e-b6d4-5454487c14ca",
     "visible": true
 }

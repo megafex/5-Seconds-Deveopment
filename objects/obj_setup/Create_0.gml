@@ -4,3 +4,4 @@ global.level = ini_read_real("save", "level", 1);
 ini_close();
 room_goto(room_fake_loading); 
 
+global.sicslevel = ini_read_real("save", "level", 1);

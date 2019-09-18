@@ -87,6 +87,14 @@
             }
         },
         {
+            "Key": "17d1cab8-81b5-491e-b88b-a320655f1f74",
+            "Value": {
+                "id": "7afc49d1-cafc-423c-acf2-d5bf0d327a76",
+                "resourcePath": "objects\\obj_SICS_10\\obj_SICS_10.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "1a2dec59-e5a6-45ff-980c-f074e3fe693f",
             "Value": {
                 "id": "57ce2f0a-df18-4704-814c-75d905e101f3",
@@ -231,6 +239,14 @@
             }
         },
         {
+            "Key": "76bfb4c1-e0a8-4b04-95ce-d9a28176b062",
+            "Value": {
+                "id": "f34e83a8-4095-4c5a-bc66-3a0cf43a2990",
+                "resourcePath": "rooms\\room_sics_stage_selection\\room_sics_stage_selection.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "78ffd7c2-c3e8-4a09-82fa-fe48081b35fc",
             "Value": {
                 "id": "8284b9b1-f63d-4a5d-979a-85898b6284c4",
@@ -319,6 +335,14 @@
             }
         },
         {
+            "Key": "b2a4faa9-eaba-4b5c-b1c8-051668a510de",
+            "Value": {
+                "id": "2a3fe3a9-3688-4ee5-9d4e-6ec2ec1124d2",
+                "resourcePath": "objects\\obj_SICS_competition\\obj_SICS_competition.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "b9dac14a-1ca5-47e4-bc12-e1e212b58a1e",
             "Value": {
                 "id": "93265f97-1898-460f-b4c8-cbdf0217af18",
@@ -364,6 +388,14 @@
                 "id": "b7e79270-ba79-4049-b19c-f1d83fec62a1",
                 "resourcePath": "rooms\\room_lose\\room_lose.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "c47a2633-47c3-41e7-bf71-e663d12b4a31",
+            "Value": {
+                "id": "7e9faafc-79d4-45b1-97ef-92aca3db1180",
+                "resourcePath": "objects\\obj_SICS_9\\obj_SICS_9.yy",
+                "resourceType": "GMObject"
             }
         },
         {
