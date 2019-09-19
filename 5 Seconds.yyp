@@ -519,6 +519,14 @@
             }
         },
         {
+            "Key": "f162bd85-7628-4cb2-a39e-d4d723b98919",
+            "Value": {
+                "id": "ba8326a6-a3d5-426c-b9e9-3df09e4b3ecb",
+                "resourcePath": "objects\\obj_malafar_1\\obj_malafar_1.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
             "Value": {
                 "id": "fde5b403-ad3b-4199-b392-4e51dd0fe5a7",
