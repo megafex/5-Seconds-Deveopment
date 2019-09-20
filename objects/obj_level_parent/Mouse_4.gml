@@ -1,6 +1,6 @@
 /// @description Insert description here
-if global.level>=my_sics
+if global.sicslevel>=my_sicslevelid
 {
-	global.this_level=my_id;
+	global.sicslevel=my_sicslevelid;
 	room_goto(room_firing);
 }
