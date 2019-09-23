@@ -599,6 +599,14 @@
             }
         },
         {
+            "Key": "db60620d-c4c9-4ce8-ba88-37d32635da80",
+            "Value": {
+                "id": "2ab6f6d1-68e6-465d-af17-f6e9c327a268",
+                "resourcePath": "objects\\obj_crosshair\\obj_crosshair.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "dd046026-d71f-4580-a123-f7073e589a07",
             "Value": {
                 "id": "ab4093f8-b9df-4b5c-a45d-47cea4315161",
