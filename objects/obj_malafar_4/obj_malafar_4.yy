@@ -1,18 +1,18 @@
 {
-    "id": "b2a4faa9-eaba-4b5c-b1c8-051668a510de",
+    "id": "23841d79-8c6a-4498-acd5-37827524cf94",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_SICS_competition",
+    "name": "obj_malafar_4",
     "eventList": [
         {
-            "id": "381fb490-8e02-445c-a410-8ce4d367f7c4",
+            "id": "d6521f83-030f-46cb-8f60-6d38f69cc9df",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "b2a4faa9-eaba-4b5c-b1c8-051668a510de"
+            "m_owner": "23841d79-8c6a-4498-acd5-37827524cf94"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -33,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "7400d834-791d-409e-b6d4-5454487c14ca",
+    "spriteId": "4afc08e3-0032-4d8f-8774-cf0e9221650c",
     "visible": true
 }

@@ -1,5 +1,5 @@
-if global.time>3 global.time=3;
-if global.time==0
+if time>3 time=3;
+if time==0
 {
-	room_goto(room_level_selection);
+	room_goto(room_map_selection);
 }

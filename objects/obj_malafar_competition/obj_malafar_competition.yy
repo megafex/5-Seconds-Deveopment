@@ -1,18 +1,18 @@
 {
-    "id": "b2a4faa9-eaba-4b5c-b1c8-051668a510de",
+    "id": "b197bee4-1d4e-4c23-86af-112ccaf01f58",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_SICS_competition",
+    "name": "obj_malafar_competition",
     "eventList": [
         {
-            "id": "381fb490-8e02-445c-a410-8ce4d367f7c4",
+            "id": "eae28976-6805-4a81-bf29-583c2e7d0530",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "b2a4faa9-eaba-4b5c-b1c8-051668a510de"
+            "m_owner": "b197bee4-1d4e-4c23-86af-112ccaf01f58"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",

@@ -1,3 +1,3 @@
-global.time--;
+time--;
 alarm[0]=room_speed;
 
