@@ -1,1 +1,1 @@
-sprite_index = 1
+sprite_index = spr+spr_SICS_description_2
