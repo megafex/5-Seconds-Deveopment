@@ -263,6 +263,14 @@
             }
         },
         {
+            "Key": "548acbfd-f2ac-4b99-b0b2-6d033f710550",
+            "Value": {
+                "id": "9620affc-5808-4575-a7ec-99500355dfce",
+                "resourcePath": "sprites\\spr_traget\\spr_traget.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "54f59e0b-07dd-4e1f-a9a6-506ed41b520f",
             "Value": {
                 "id": "6215b0c8-da58-4547-91da-14e879d16869",

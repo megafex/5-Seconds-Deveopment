@@ -6,3 +6,5 @@ my = mouse_y;
 
 global.shake=3;
 alarm[0]=room_speed*3;
+
+global.breath=false;
