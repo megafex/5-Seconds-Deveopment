@@ -1,3 +1,4 @@
+global.sicslevel=2;
 image_speed=0;
 my_sicslevelid=14;
 if global.sicslevel>=my_sicslevelid
