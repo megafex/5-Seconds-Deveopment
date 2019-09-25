@@ -29,3 +29,7 @@ if global.breath=true
 	x=x;
 	y=y;
 }
+else
+{
+	speed=2;
+}
