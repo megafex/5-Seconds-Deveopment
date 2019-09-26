@@ -183,6 +183,14 @@
             }
         },
         {
+            "Key": "42e336f8-4486-4397-b488-09a2fd0ac634",
+            "Value": {
+                "id": "16d5aa07-e45e-48a5-b909-2d20caca8353",
+                "resourcePath": "sprites\\spr_jag\\spr_jag.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "4317e94a-52f1-4a8a-8508-b3eaa70812e2",
             "Value": {
                 "id": "cee4519d-5e3b-4048-8aa8-d2acde06b367",
@@ -218,7 +226,7 @@
             "Key": "474e1c56-dfec-43ed-aaba-ea314b92cc36",
             "Value": {
                 "id": "a62f1a20-7292-4caf-a1b7-7e95d76e370d",
-                "resourcePath": "sprites\\obj_bullet\\obj_bullet.yy",
+                "resourcePath": "sprites\\spr_bullet\\spr_bullet.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -487,6 +495,14 @@
             }
         },
         {
+            "Key": "aa63b5c9-8f47-4839-a738-908d6b38f626",
+            "Value": {
+                "id": "1a293933-4c02-42cd-be7d-c944d3bf5f40",
+                "resourcePath": "objects\\obj_hud\\obj_hud.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "ad9e11e6-9ea9-4df8-9ac4-66bfced0812a",
             "Value": {
                 "id": "f491b4d8-d1bb-47ec-99a3-4cd513381af5",
@@ -623,6 +639,14 @@
             }
         },
         {
+            "Key": "cd47ee4f-6302-4dd1-a04e-f2207f46867f",
+            "Value": {
+                "id": "93240cdf-5971-4174-984c-71889411f61e",
+                "resourcePath": "objects\\obj_target\\obj_target.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "d2fdb16f-995e-464c-b4e5-942a942153fd",
             "Value": {
                 "id": "1a147099-a0a5-4d10-9a17-ccdb182d0802",
@@ -643,6 +667,14 @@
             "Value": {
                 "id": "34f250ba-cf8a-49b4-a0ae-d971c577a90c",
                 "resourcePath": "objects\\obj_SICS_7\\obj_SICS_7.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "daaf9654-81af-4ed7-9338-d5b36d8ea274",
+            "Value": {
+                "id": "fbea43d1-0650-4d63-a9f7-b855e8e4c97b",
+                "resourcePath": "objects\\obj_bullet\\obj_bullet.yy",
                 "resourceType": "GMObject"
             }
         },

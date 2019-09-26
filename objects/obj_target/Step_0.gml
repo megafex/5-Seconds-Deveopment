@@ -1,0 +1,1 @@
+var score=point_distance(1185, 322, mouse_x, mouse_y);
