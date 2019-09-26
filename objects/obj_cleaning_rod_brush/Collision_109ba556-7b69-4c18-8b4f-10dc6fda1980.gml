@@ -1,0 +1,1 @@
+object_index = obj_cleaning_rod_brush_solvent
