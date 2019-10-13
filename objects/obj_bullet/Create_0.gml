@@ -1,3 +1,2 @@
-/// @description Insert description here
-alarm[0]=room_speed*1;
-
+/// @description Insert description h
+score=distance_to_point(1179,464);

@@ -5,7 +5,7 @@
     "name": "spr_bullet",
     "For3D": false,
     "HTile": false,
-    "VTile": false,
+    "VTile": true,
     "bbox_bottom": 33,
     "bbox_left": 31,
     "bbox_right": 33,

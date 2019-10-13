@@ -119,6 +119,14 @@
             }
         },
         {
+            "Key": "1711e0e1-06b1-4344-99f1-cd3f52b7ef2f",
+            "Value": {
+                "id": "9b344cb3-97bd-4515-96bd-52f6c9c3a654",
+                "resourcePath": "objects\\obj_hud\\obj_hud.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "1716b4b7-4e0a-444c-89fa-7da3c30c2204",
             "Value": {
                 "id": "ab429ebb-a81d-45eb-a30e-5ecbfe5c0d5b",
@@ -235,6 +243,14 @@
             "Value": {
                 "id": "2b6e2131-72a9-4ec0-be33-32952ca6df67",
                 "resourcePath": "objects\\obj_ripped_4b\\obj_ripped_4b.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "3f02ae4c-d419-42fa-b9e0-4c3931ce87e4",
+            "Value": {
+                "id": "a0a8d3b2-7b6a-4d74-8b21-c75f4ae7adad",
+                "resourcePath": "objects\\obj_target\\obj_target.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -388,6 +404,14 @@
                 "id": "f6c1178f-cb7e-4417-ad06-26837467c2b8",
                 "resourcePath": "sprites\\spr_cleaning_rod_brush\\spr_cleaning_rod_brush.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "5f825436-5344-4dfc-bc2c-198f0bd4997b",
+            "Value": {
+                "id": "64d6dce6-73b3-4f2c-8eb5-5eb7d925e48e",
+                "resourcePath": "fonts\\fnt_score\\fnt_score.yy",
+                "resourceType": "GMFont"
             }
         },
         {
