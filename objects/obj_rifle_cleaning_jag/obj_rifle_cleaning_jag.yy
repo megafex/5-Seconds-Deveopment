@@ -1,19 +1,10 @@
 {
-    "id": "397ce9c7-dc90-4856-944a-f8d947faa447",
+    "id": "11f50a65-bc31-4694-8706-bba0d8b2afe1",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_cleaning_rod_jag_4b",
+    "name": "obj_rifle_cleaning_jag",
     "eventList": [
-        {
-            "id": "7d48c696-2f34-4f73-a904-c3ea771dcc9b",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "397ce9c7-dc90-4856-944a-f8d947faa447"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
@@ -33,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "03a6ab9a-1f9f-4733-a405-db8efc178d61",
+    "spriteId": "00000000-0000-0000-0000-000000000000",
     "visible": true
 }

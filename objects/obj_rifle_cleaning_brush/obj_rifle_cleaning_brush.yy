@@ -1,18 +1,28 @@
 {
-    "id": "397ce9c7-dc90-4856-944a-f8d947faa447",
+    "id": "d6d12f74-3d0b-4545-956c-4451304a1df7",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_cleaning_rod_jag_4b",
+    "name": "obj_rifle_cleaning_brush",
     "eventList": [
         {
-            "id": "7d48c696-2f34-4f73-a904-c3ea771dcc9b",
+            "id": "d68e7e8b-3895-47fd-8c6b-ce4fc041489b",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "397ce9c7-dc90-4856-944a-f8d947faa447"
+            "enumb": 87,
+            "eventtype": 9,
+            "m_owner": "d6d12f74-3d0b-4545-956c-4451304a1df7"
+        },
+        {
+            "id": "9ba78d96-67e6-4a70-849b-5ec871567db6",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 83,
+            "eventtype": 9,
+            "m_owner": "d6d12f74-3d0b-4545-956c-4451304a1df7"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -33,6 +43,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "03a6ab9a-1f9f-4733-a405-db8efc178d61",
+    "spriteId": "00000000-0000-0000-0000-000000000000",
     "visible": true
 }
