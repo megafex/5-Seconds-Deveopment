@@ -1,1 +1,2 @@
-object_index = obj_cleaning_rod_jag
+instance_destroy();
+instance_create_layer(mouse_x,mouse_y,"Instances",obj_cleaning_rod_jag);
