@@ -1,19 +1,10 @@
 {
-    "id": "fb3190ea-4bce-43fb-b653-5a32a2c9316d",
+    "id": "3d95dc7b-97bd-4bfb-a86d-5a15d4d45aa3",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_bullet",
+    "name": "obj_rifle_chamber",
     "eventList": [
-        {
-            "id": "63072a0f-d28f-4242-a4d3-7cc2ab0b6eb5",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "fb3190ea-4bce-43fb-b653-5a32a2c9316d"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
@@ -33,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "1c7820d5-2c43-4ef6-b9af-97596ee7a3ac",
+    "spriteId": "05c3b8df-c2c5-46c1-bcc4-a1be7957f70a",
     "visible": true
 }
