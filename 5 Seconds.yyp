@@ -183,6 +183,14 @@
             }
         },
         {
+            "Key": "1c7820d5-2c43-4ef6-b9af-97596ee7a3ac",
+            "Value": {
+                "id": "4bc96548-cfd6-4782-8aa3-cc38d58409a1",
+                "resourcePath": "sprites\\rule_34\\rule_34.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "23841d79-8c6a-4498-acd5-37827524cf94",
             "Value": {
                 "id": "1c1580b1-0254-4761-bf2f-81aab4d2a377",
@@ -259,6 +267,14 @@
             "Value": {
                 "id": "2b6e2131-72a9-4ec0-be33-32952ca6df67",
                 "resourcePath": "objects\\obj_ripped_4b\\obj_ripped_4b.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "3d95dc7b-97bd-4bfb-a86d-5a15d4d45aa3",
+            "Value": {
+                "id": "e8ef64a0-036e-452a-b28b-508633611601",
+                "resourcePath": "objects\\obj_rifle_chamber\\obj_rifle_chamber.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -371,14 +387,6 @@
             "Value": {
                 "id": "046b892d-13a5-4be7-9fb1-f82c41129cae",
                 "resourcePath": "sprites\\spr_number_V\\spr_number_V.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "517dbb51-ff85-45c1-8292-47f620b7a2b4",
-            "Value": {
-                "id": "ca6a2a84-3eb8-4c2b-95e3-246885cba60c",
-                "resourcePath": "sprites\\spr_cleaning_rod_jag\\spr_cleaning_rod_jag.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -708,6 +716,22 @@
                 "id": "dfc0f987-b637-4117-8aba-6e02f746bdfc",
                 "resourcePath": "objects\\obj_4b\\obj_4b.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "b5e976e1-16c7-46db-befc-62a535893d7d",
+            "Value": {
+                "id": "eeb7b7c0-039a-4556-830a-158f363bfb0e",
+                "resourcePath": "sprites\\spr_cleaning_rod_jag\\spr_cleaning_rod_jag.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "b6a664f2-c92b-4c83-9b3d-c307be02a448",
+            "Value": {
+                "id": "6dc2a374-3e8a-41f3-8a07-ae4d3382acfb",
+                "resourcePath": "sprites\\spr_jag\\spr_jag.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

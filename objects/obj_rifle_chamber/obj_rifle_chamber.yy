@@ -1,8 +1,8 @@
 {
-    "id": "11f50a65-bc31-4694-8706-bba0d8b2afe1",
+    "id": "3d95dc7b-97bd-4bfb-a86d-5a15d4d45aa3",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_rifle_cleaning_jag",
+    "name": "obj_rifle_chamber",
     "eventList": [
         
     ],
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "b5e976e1-16c7-46db-befc-62a535893d7d",
+    "spriteId": "05c3b8df-c2c5-46c1-bcc4-a1be7957f70a",
     "visible": true
 }
