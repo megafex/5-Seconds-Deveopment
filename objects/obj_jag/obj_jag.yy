@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "obj_jag",
     "eventList": [
-        
+        {
+            "id": "2eaba2e0-4c97-4600-9c12-827dadb4eb7c",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "c3bb180f-def4-4b45-8694-6518d6fe803e",
+            "enumb": 0,
+            "eventtype": 4,
+            "m_owner": "c6c86263-08c2-4521-8a42-7ebd175231da"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
