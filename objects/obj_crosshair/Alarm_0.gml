@@ -1,4 +1,4 @@
 /// @description Insert description here
 
+global.can_shoot=true;
 
-alarm[0]=room_speed*0.5;

@@ -1,4 +1,7 @@
 /// @description Insert description here
-instance_create_layer(x+232,y+232,"Target",obj_bullet);
+if global.can_shoot=true
+{
+	instance_create_layer(x+232,y+232,"Target",obj_34);
+	room_goto(room_reload);
+}
 
-room_goto(room_reload);
