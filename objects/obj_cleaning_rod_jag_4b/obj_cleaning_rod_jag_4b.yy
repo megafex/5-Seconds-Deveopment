@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "obj_cleaning_rod_jag_4b",
     "eventList": [
-        
+        {
+            "id": "7d48c696-2f34-4f73-a904-c3ea771dcc9b",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "397ce9c7-dc90-4856-944a-f8d947faa447"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
