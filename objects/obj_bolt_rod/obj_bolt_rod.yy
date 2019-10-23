@@ -1,21 +1,21 @@
 {
-    "id": "fb3190ea-4bce-43fb-b653-5a32a2c9316d",
+    "id": "17380024-1247-4d69-a7f7-5d6d0e03dac1",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_bullet",
+    "name": "obj_bolt_rod",
     "eventList": [
         {
-            "id": "63072a0f-d28f-4242-a4d3-7cc2ab0b6eb5",
+            "id": "c57dd972-ce75-42b6-b246-7a3310b6de97",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "fb3190ea-4bce-43fb-b653-5a32a2c9316d"
+            "eventtype": 3,
+            "m_owner": "17380024-1247-4d69-a7f7-5d6d0e03dac1"
         }
     ],
-    "maskSpriteId": "00000000-0000-0000-0000-000000000000",
+    "maskSpriteId": "0faeba8d-7ebd-4fca-af74-411002b7ff12",
     "overriddenProperties": null,
     "parentObjectId": "00000000-0000-0000-0000-000000000000",
     "persistent": false,
@@ -33,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "268f9aab-d0c3-42d6-88f0-bd1a1f0019a3",
+    "spriteId": "0faeba8d-7ebd-4fca-af74-411002b7ff12",
     "visible": true
 }
