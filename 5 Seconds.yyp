@@ -87,6 +87,14 @@
             }
         },
         {
+            "Key": "09645e90-60e0-477f-9843-f9f761c36454",
+            "Value": {
+                "id": "2a0cd41d-4baa-431b-b9a0-af8267121a2c",
+                "resourcePath": "objects\\obj_draggable_parent\\obj_draggable_parent.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "0a4280e1-90fa-4a65-a276-3a66d03257bf",
             "Value": {
                 "id": "dbcac772-bfc4-4e42-a0c2-bfc76ca12107",
@@ -199,6 +207,14 @@
             }
         },
         {
+            "Key": "20f0307c-ad6b-4057-b015-976be397bf58",
+            "Value": {
+                "id": "f72eda80-1ed4-4c6c-9766-8fe2c5c7f398",
+                "resourcePath": "sprites\\spr_rifle_cleaning_bot\\spr_rifle_cleaning_bot.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "23841d79-8c6a-4498-acd5-37827524cf94",
             "Value": {
                 "id": "1c1580b1-0254-4761-bf2f-81aab4d2a377",
@@ -260,6 +276,14 @@
                 "id": "bdc4b1bd-7409-4b10-ac5f-b67930d1ffa1",
                 "resourcePath": "objects\\obj_sics\\obj_sics.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "336bd73e-45e1-4512-aa9c-d0fd60b1d9d8",
+            "Value": {
+                "id": "04587461-8bbd-4763-9b22-523232a975a7",
+                "resourcePath": "sprites\\spr_solvent_tilted\\spr_solvent_tilted.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -675,6 +699,14 @@
             "Value": {
                 "id": "2cd8e233-7ba0-4a81-8069-c7e72aad3778",
                 "resourcePath": "objects\\obj_malafar_8\\obj_malafar_8.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "a1f40c5c-4378-48ca-af1c-2f8aa0003c30",
+            "Value": {
+                "id": "ff88726a-b391-4904-a91d-f90226fdef3d",
+                "resourcePath": "objects\\obj_rifle_cleaning_bottom\\obj_rifle_cleaning_bottom.yy",
                 "resourceType": "GMObject"
             }
         },
