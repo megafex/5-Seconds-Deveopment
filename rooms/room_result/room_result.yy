@@ -1,6 +1,6 @@
 
 {
-    "name": "room_win",
+    "name": "room_result",
     "id": "6faae9c2-1362-4776-8db2-daaa19023e06",
     "creationCodeFile": "",
     "inheritCode": false,
@@ -43,7 +43,7 @@
             "id": "4fef21d3-2dfc-4611-9475-c2441a28befd",
             "animationFPS": 15,
             "animationSpeedType": "0",
-            "colour": { "Value": 4278190080 },
+            "colour": { "Value": 4294906351 },
             "depth": 100,
             "grid_x": 32,
             "grid_y": 32,

@@ -490,7 +490,7 @@
             "Key": "6faae9c2-1362-4776-8db2-daaa19023e06",
             "Value": {
                 "id": "79dae535-4dfd-4b5a-9b36-142e132a0d10",
-                "resourcePath": "rooms\/room_win\/room_win.yy",
+                "resourcePath": "rooms\\room_result\\room_result.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -980,14 +980,6 @@
                 "id": "7e545189-f326-4d18-bc9e-b8bfa1aa0b0e",
                 "resourcePath": "sprites\/spr_bolt\/spr_bolt.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "ed02fd1b-a652-46ea-99ec-bc92057cc154",
-            "Value": {
-                "id": "3ea40afe-b043-4275-b009-abfbbd0ef672",
-                "resourcePath": "objects\/obj_score\/obj_score.yy",
-                "resourceType": "GMObject"
             }
         },
         {

@@ -10,4 +10,6 @@ score=0;
 
 global.can_shoot=false;
 
-alarm[0]=room_speed
+alarm[0]=room_speed/3;
+alarm[1]=0;
+
