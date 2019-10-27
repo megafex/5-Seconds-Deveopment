@@ -2,9 +2,58 @@
 if global.can_shoot=true
 {
 	instance_create_layer(x+232,y+232,"Target",obj_34);
-	alarm[1]=room_speed
 	global.can_shoot=false
+	alarm[1]=room_speed
 	alarm[0]=room_speed
 	global.shot+=1;
+	if score<7
+	{
+		score2="10*";
+	}
+	else if score<20
+	{
+		score2="10";
+	}
+	else if score<50
+	{
+		score2="9"
+	}
+	else if score<70
+	{
+		score2="8"
+	}
+	else if score<90
+	{
+		score2="7"
+	}
+	else if score<110
+	{
+		score2="6"
+	}
+	else if score<130
+	{
+		score2="5"
+	}
+	else if score<150
+	{
+		score2="4"
+	}
+	else if score<170
+	{
+		score2="3"
+	}
+	else if score<190
+	{
+		score2="2"
+	}
+	else if score<210
+	{
+		score2="1"
+	}
+	else if score>230
+	{
+		score2="0"
+	}
+	global.score2 += real(score2);
 }
 
