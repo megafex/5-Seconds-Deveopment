@@ -1,14 +1,14 @@
 {
-    "id": "3ce09d43-dd6b-4b54-969d-7c4dcf884ec5",
+    "id": "96b42a48-5f2e-41b4-8bf8-a33530d9e58b",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_ripped_4b",
+    "name": "obj_rifle_cleaning_body",
     "eventList": [
         
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
-    "parentObjectId": "fe82c87a-d00f-4c5d-bb13-61a563a6ca2b",
+    "parentObjectId": "00000000-0000-0000-0000-000000000000",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "1349adc8-b1dd-4b92-9b0a-55b5a1f70d18",
+    "spriteId": "00000000-0000-0000-0000-000000000000",
     "visible": true
 }

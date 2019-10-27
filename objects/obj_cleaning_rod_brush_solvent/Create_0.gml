@@ -1,1 +1,1 @@
-cleaning_rod_id = 1;
+global.cleaningrod = 1;

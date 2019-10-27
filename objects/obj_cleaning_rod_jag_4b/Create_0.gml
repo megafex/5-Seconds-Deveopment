@@ -1,1 +1,1 @@
-cleaning_rod_id = 2
+global.cleaningrod = 2

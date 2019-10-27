@@ -1,1 +1,1 @@
-sprite_index = spr_solvent_tilted
+sprite_index = spr_solvent_pouring
