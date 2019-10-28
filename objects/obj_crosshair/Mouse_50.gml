@@ -6,9 +6,10 @@ if global.can_shoot=true
 	alarm[1]=room_speed
 	alarm[0]=room_speed
 	global.shot+=1;
-	if score<7
+	if score<4
 	{
-		score2="10*";
+		score2="10";
+		global.centre+=1;
 	}
 	else if score<20
 	{
