@@ -43,3 +43,7 @@ if x>1920-369
 	x-=2;
 }
 
+if global.recoil=true
+{
+	y-=7
+}

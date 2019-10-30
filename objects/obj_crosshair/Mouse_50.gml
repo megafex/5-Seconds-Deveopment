@@ -1,6 +1,9 @@
 /// @description Insert description here
+
 if global.can_shoot=true
 {
+	global.recoil=true;
+	alarm[2]=room_speed/5;
 	instance_create_layer(x+232,y+232,"Target",obj_34);
 	global.can_shoot=false
 	alarm[1]=room_speed
