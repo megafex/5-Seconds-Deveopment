@@ -47,3 +47,4 @@ if global.recoil=true
 {
 	y-=7
 }
+

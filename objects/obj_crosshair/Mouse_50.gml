@@ -14,7 +14,7 @@ if global.can_shoot=true
 		score2="10";
 		global.centre+=1;
 	}
-	else if score<20
+	else if score<9
 	{
 		score2="10";
 	}
