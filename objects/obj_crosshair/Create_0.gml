@@ -14,3 +14,5 @@ alarm[0]=room_speed/3;
 alarm[1]=0;
 
 score2=0;
+
+global.x_offset = 0;
