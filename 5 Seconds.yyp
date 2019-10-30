@@ -511,6 +511,14 @@
             }
         },
         {
+            "Key": "6744c1a9-03f2-4b7b-aa8f-67975f9b2dcf",
+            "Value": {
+                "id": "fe16dc5e-c84a-45c4-9ef0-f2333f1fcde0",
+                "resourcePath": "objects\\obj_rifle_cleaning_jag\\obj_rifle_cleaning_jag.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "6e6716ee-958a-4385-b587-ff9009b10451",
             "Value": {
                 "id": "87f337e1-f448-4da9-9d57-73c50744ac26",

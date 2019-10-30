@@ -23,6 +23,7 @@ if global.cleaningrod = 1
 	instance_destroy(obj_cleaning_rod_brush_solvent);
 	instance_create_layer(607,550,"Instances",obj_cleaning_rod);
 	instance_destroy(obj_ripped_4b);
+	instance_destroy(obj_rifle_cleaning_wet_brush);
 }
 if global.cleaningrod = 2
 {
@@ -35,4 +36,5 @@ if global.cleaningrod = 2
 	instance_destroy(obj_cleaning_rod_jag_4b);
 	instance_create_layer(607,550,"Instances",obj_cleaning_rod);
 	instance_destroy(obj_ripped_4b);
+	instance_destroy(obj_rifle_cleaning_dry_patch);
 }

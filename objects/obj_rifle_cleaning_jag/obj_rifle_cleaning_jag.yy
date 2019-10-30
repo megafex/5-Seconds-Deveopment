@@ -1,10 +1,19 @@
 {
-    "id": "11f50a65-bc31-4694-8706-bba0d8b2afe1",
+    "id": "6744c1a9-03f2-4b7b-aa8f-67975f9b2dcf",
     "modelName": "GMObject",
     "mvc": "1.0",
     "name": "obj_rifle_cleaning_jag",
     "eventList": [
-        
+        {
+            "id": "191d51e7-ddc0-4219-9f7c-98439981efa7",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 5,
+            "eventtype": 6,
+            "m_owner": "6744c1a9-03f2-4b7b-aa8f-67975f9b2dcf"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
