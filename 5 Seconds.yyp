@@ -571,6 +571,25 @@
             }
         },
         {
+            "Key": "2f118f15-9325-4378-8b67-80868c6f9ad9",
+            "Value": {
+                "id": "6a7238c4-6108-4c50-9996-c6514ebc2ec6",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spr_breath_bar1\/spr_breath_bar1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "31a9bcc3-7530-4885-96cb-e2f3eb4e52e6",
             "Value": {
                 "id": "bdc4b1bd-7409-4b10-ac5f-b67930d1ffa1",
@@ -625,6 +644,25 @@
                 ],
                 "resourcePath": "sprites\/spr_solvent\/spr_solvent.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "3848056c-7a34-467a-b9dd-6a1e988bb5b5",
+            "Value": {
+                "id": "a589516e-4e1c-47b1-acf2-9258cefa4681",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/obj_breath_bar\/obj_breath_bar.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -776,6 +814,25 @@
                     "default"
                 ],
                 "resourcePath": "objects\/obj_hud_side\/obj_hud_side.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "43d4214d-3dba-4fc5-83f7-47a8724b1029",
+            "Value": {
+                "id": "5b9bfb4c-6e71-45ab-a0a6-42382640c30d",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/obj_\/obj_.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -1404,6 +1461,25 @@
                 ],
                 "resourcePath": "views\/8ae44311-e018-46d9-af06-a72f0a4c81a7.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "8db821a6-a08b-494c-88f1-9823cb49643b",
+            "Value": {
+                "id": "064ab7e4-adef-4c92-89b0-b4a3bc68ffac",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spr_breath_bar\/spr_breath_bar.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -2221,6 +2297,25 @@
                 ],
                 "resourcePath": "sprites\/spr_number_6\/spr_number_6.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "e4abde69-3b6e-4b04-b1e8-7c232ccfb7d1",
+            "Value": {
+                "id": "7b980ab2-ac27-4ccc-80f1-229d9a33c403",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/obj_breath_text\/obj_breath_text.yy",
+                "resourceType": "GMObject"
             }
         },
         {

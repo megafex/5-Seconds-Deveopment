@@ -48,3 +48,16 @@ if global.recoil=true
 	y-=7
 }
 
+if global.breath=true
+{
+	obj_breath_bar.image_xscale-=0.01;
+}
+else 
+{
+	obj_breath_bar.image_xscale+=0.01;
+}
+
+if obj_breath_bar.image_xscale>1
+{
+	obj_breath_bar.image_xscale = 1;
+}
