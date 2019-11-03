@@ -57,6 +57,12 @@ else
 	obj_breath_bar.image_xscale+=0.01;
 }
 
+if obj_breath_bar.image_xscale=0
+{
+	global.breath=false
+}
+
+
 if obj_breath_bar.image_xscale>1
 {
 	obj_breath_bar.image_xscale = 1;
