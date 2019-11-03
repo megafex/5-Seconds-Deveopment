@@ -1,3 +1,3 @@
 /// @description Insert description here
 // You can write your code in this editor
-room_goto(room_firing_SICS)
+room_goto(room_cleaning_1);
