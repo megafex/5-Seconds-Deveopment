@@ -15,6 +15,6 @@ alarm[1]=0;
 
 score2=0;
 
-global.x_offset = 0;
+
 
 alarm[3]=room_speed*30

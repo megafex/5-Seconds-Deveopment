@@ -29,3 +29,4 @@ else if global.sicslevel= 5
 	global.wind = 50
 	global.rain=true;
 }
+global.x_offset = 0;
