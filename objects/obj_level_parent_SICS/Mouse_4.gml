@@ -1,7 +1,9 @@
 /// @description Insert description here
-if global.sicslevel>=my_sicslevelid
+if image_index=0
 {
-	global.sicslevel=my_sicslevelid;
+	global.sicslevelid+=1
 	room_goto(room_firing_SICS);
 }
-global.sicslevel+=1;
+
+
+global.sicslevel=sicslevel;

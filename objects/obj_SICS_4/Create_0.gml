@@ -1,6 +1,6 @@
 image_speed=0;
-my_sicslevelid=4;
-if global.sicslevel>=my_sicslevelid
+sicslevel=4
+if sicslevel<=global.sicslevelid
 {
 	image_index=0;
 }
