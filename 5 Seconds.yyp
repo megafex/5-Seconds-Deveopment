@@ -487,6 +487,14 @@
             }
         },
         {
+            "Key": "6412bd02-aa96-48ef-94ae-7b0e90c69003",
+            "Value": {
+                "id": "a886dc36-63a5-44f9-b0ad-b1af9d09261a",
+                "resourcePath": "objects\\obj_gay\\obj_gay.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "6744c1a9-03f2-4b7b-aa8f-67975f9b2dcf",
             "Value": {
                 "id": "fe16dc5e-c84a-45c4-9ef0-f2333f1fcde0",
